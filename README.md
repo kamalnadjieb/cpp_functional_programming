@@ -1,0 +1,1 @@
+Referensi: http://blog.madhukaraphatak.com/functional-programming-in-c++/
